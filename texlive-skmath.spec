@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 0.3a
 Name:		texlive-skmath
-Version:	0.3a
-Release:	9
+Version:	0.4b
+Release:	1
 Summary:	Extensions to the maths command repertoir
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/skmath
