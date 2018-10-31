@@ -1,6 +1,6 @@
 Name:		texlive-skmath
 Version:	0.4b
-Release:	1
+Release:	2
 Summary:	Extensions to the maths command repertoir
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/skmath
