@@ -3,7 +3,7 @@ Version:	52411
 Release:	2
 Summary:	Extensions to the maths command repertoir
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/skmath
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/skmath
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/skmath.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/skmath.doc.r%{version}.tar.xz
